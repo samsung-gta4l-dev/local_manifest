@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
- <remote name="phhgsi" fetch="https://gitlab.com/phhgsi" />
  <remote name="ImSurajxD" fetch="https://gitlab.com/ImSurajxD" />
  
  <!-- Trees -->
- <project path="device/oneplus/CPH2381" name="hackerbhind/android_device_oneplus_CPH238.git" remote="github" revision="pixel-13" />
+ <project path="device/oneplus/oscaro" name="hackerbhind/android_device_oneplus_oscaro.git" remote="github" revision="pixel-13" />
  <project path="hardware/oplus" name="PixelExperience/hardware_oplus.git" remote="github" revision="thirteen-plus" />
  <project path="kernel/oneplus/sm6375" name="bheatleyyy/android_kernel_oneplus_sm6375.git" remote="github" revision="lineage-20" />
  
